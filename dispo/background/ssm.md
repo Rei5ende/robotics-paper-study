@@ -242,4 +242,3 @@ SSM을 공부하면서 가장 인상 깊었던 것은 **Step Size ∆의 의미*
 - S4 논문: https://arxiv.org/abs/2111.00396
 - DiSPo 논문: https://arxiv.org/abs/2409.14719
 - DiSPo 리뷰: ../../paper_review.md
-- SSM 배경 공부: ./ssm.md  
