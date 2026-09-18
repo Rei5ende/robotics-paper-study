@@ -13,7 +13,7 @@ to build a foundation in robotics research.
 | DiSPo | ICRA 2026 | [Link](./dispo/paper_review.md) |
 | Context-Nav | CVPR 2026 | [Link](./context-nav/paper_review.md) |
 | PolyFit | IROS 2024 | [Link](./polyfit/paper_review.md) |
-| ManipForce | ICRA 2026 | [Link](./manipforce/paper_review.md) |
+| ManipForce | ICRA 2026 | [Link](./manipforce/paper_reivew.md) |
 
 ---
 
